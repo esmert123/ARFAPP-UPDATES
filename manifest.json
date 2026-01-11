@@ -1,6 +1,6 @@
 {
   "latest": "1.0.1",
-  "url": "https://github.com/esmert123/ARFAPP-UPDATES/releases/download/V1.0.1/ARFApp_1.0.1.zip",
+  "url": "https://github.com/esmert123/ARFAPP-UPDATES/releases/latest/download/ARFApp.zip",
   "sha256": "a19ddaa55265785b28d23b5b466c92706e3c4210d2f768ed7511188255d92b27",
   "notes": "Initial release (app/ folder standard)."
 }
