@@ -1,6 +1,18 @@
 {
-  "latest": "2.0.1",
-  "url": "https://github.com/esmert123/ARFAPP-UPDATES/releases/latest/download/ARFApp.zip",
-  "sha256": "04b8718538f6baa6344f8c0db7161ea39b5e0700f6f20ca1f404171729b7d3a0",
-  "notes": "v2.0.1"
+  "channel": "stable",
+  "updated_at": "2026-03-12T22:30:00Z",
+
+  "db": {
+    "latest": "2026.03.12",
+    "fileName": "HEA_DB_2026.03.12.xlsx",
+    "url": "https://github.com/<kullanici>/<repo>/releases/download/db-2026.03.12/HEA_DB_2026.03.12.xlsx",
+    "sha256": "DB_SHA256_BURAYA"
+  },
+
+  "app": {
+    "latest": "1.4.0",
+    "fileName": "ARFApp-win-x64-1.4.0.zip",
+    "url": "https://github.com/<kullanici>/<repo>/releases/download/app-v1.4.0/ARFApp-win-x64-1.4.0.zip",
+    "sha256": "APP_SHA256_BURAYA"
+  }
 }
